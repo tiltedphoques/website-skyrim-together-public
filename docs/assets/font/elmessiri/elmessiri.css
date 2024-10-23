@@ -1,0 +1,49 @@
+/**********************************************\
+*       _____ ___ _   _____ _____ ____         *
+*      |_   _|_ _| | |_   _| ____|  _ \        *
+*        | |  | || |   | | |  _| | | | |       *
+*        | |  | || |___| | | |___| |_| |       *
+*  ____  |_| |___|_____|_| |_____|____/____    *
+* |  _ \| | | |/ _ \ / _ \| | | | ____/ ___|   *
+* | |_) | |_| | | | | | | | | | |  _| \___ \   *
+* |  __/|  _  | |_| | |_| | |_| | |___ ___) |  *
+* |_|   |_| |_|\___/ \__\_\\___/|_____|____/   *
+*                                              *
+************************************************
+*   ╔═════════════════════════════════════╗    *
+*   ║         SKYRIM-TOGETHER.COM         ║    *
+*   ╟─────────────────────────────────────╢    *
+*   ║      Skyrim Multiplayer Project     ║    *
+*   ╚═════════════════════════════════════╝    *
+\**********************************************/
+@font-face {
+    font-display: swap;
+    font-family: 'El Messiri';
+    font-style: normal;
+    font-weight: 400;
+    src: url('./el-messiri-v22-latin-regular.woff2') format('woff2');
+}
+
+@font-face {
+    font-display: swap;
+    font-family: 'El Messiri';
+    font-style: normal;
+    font-weight: 500;
+    src: url('./el-messiri-v22-latin-500.woff2') format('woff2');
+}
+
+@font-face {
+    font-display: swap;
+    font-family: 'El Messiri';
+    font-style: normal;
+    font-weight: 600;
+    src: url('./el-messiri-v22-latin-600.woff2') format('woff2');
+}
+
+@font-face {
+    font-display: swap;
+    font-family: 'El Messiri';
+    font-style: normal;
+    font-weight: 700;
+    src: url('./el-messiri-v22-latin-700.woff2') format('woff2');
+}
